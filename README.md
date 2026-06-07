@@ -18,11 +18,8 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a **Senior Full Stack Developer** with **8+ years of proven experience** in engineering scalable web and cross-platform mobile applications. My expertise spans the entire development lifecycle—from system architecture and API design to seamless deployment. I specialize in modern JavaScript/TypeScript ecosystems and PHP frameworks, consistently delivering secure, performant, and maintainable software solutions.
+I am a **Senior Full Stack Developer** with **8+ years of proven experience** engineering scalable web and cross-platform mobile applications. My expertise spans the entire development lifecycle—from system architecture and API design to seamless deployment. I specialize in modern JavaScript/TypeScript ecosystems and PHP frameworks, consistently delivering secure, performant, and maintainable software solutions that drive business impact.
 
-- 🔭 **Current Focus**: Architecting enterprise-grade web applications and high-performance React Native mobile apps.
-- 🏢 **Current Role**: Full Stack & Mobile App Developer at **TIXME** (June 2024 - Present).
-- 🏢 **Previous Experience**: Full Stack & Mobile App Developer at **CoDesk Softwares Private Limited** (2016 - 2022).
 - 💼 **Open to Work**: Seeking Senior Full Stack Developer, Technical Lead, or Engineering Manager roles to drive technical excellence.
 
 ---
@@ -40,22 +37,31 @@ I am a **Senior Full Stack Developer** with **8+ years of proven experience** in
 
 ---
 
+### 💼 Professional Experience
+
+#### **TIXME** | *Full Stack & Mobile App Developer* (June 2024 – Present)
+- Designed and built **TixMe**, a comprehensive web-based event ticketing platform (React.js, Node.js, Express, MongoDB) that enables end-to-end event browsing and ticket purchasing.
+- Implemented secure user authentication, dynamic event listings, and deeply integrated payment processing gateways.
+- Architected and deployed a cross-platform **React Native scanner application** allowing event organizers to seamlessly scan and validate QR tickets in real-time, drastically reducing check-in friction.
+- Optimized backend routing and API performance, ensuring a highly responsive and consistent user interface across all platforms.
+
+#### **CoDesk Softwares Private Limited** | *Full Stack & Mobile App Developer* (January 2016 – April 2022)
+- Engineered scalable, highly available web and mobile applications for a diverse client base using React.js, React Native, Node.js, Express, MongoDB, and PHP (Laravel & CodeIgniter).
+- Acted as a core contributor for both frontend and backend development, architecting RESTful APIs and expertly managing complex relational (MySQL) and document (MongoDB) databases.
+- Consistently optimized application load times, runtime performance, and UX, directly contributing to high client retention rates and repeat business.
+- Led peer code reviews, mentored junior developers on best practices, and maintained rigid clean code standards throughout the organization.
+
+---
+
 ### 🚀 Highlighted Open Source Projects
 
-Here are some of the key systems I have architected and developed:
+Here are some of the key systems I have architected and open-sourced:
 
 | 📂 Project | 📝 Description | 💻 Core Tech |
 | :--- | :--- | :--- |
 | **[ClinicManagementSystem](https://github.com/Dipak080/ClinicManagementSystem)** | A comprehensive digital clinic solution designed to manage patient records, appointments, and healthcare workflows efficiently. | `JavaScript`, `React`, `Node.js` |
 | **[DocumentManagmentSystem](https://github.com/Dipak080/DocumentManagmentSystem)** | A secure, scalable platform for organizing, storing, and retrieving enterprise documents with role-based access control. | `JavaScript`, `Node.js` |
 | **[TaskManagment](https://github.com/Dipak080/TaskManagment)** | A collaborative task tracking and productivity system built to streamline team workflows and project delivery. | `JavaScript`, `React` |
-
-<br>
-
-### 💼 Commercial & Enterprise Experience
-
-- **TixMe – Event Ticketing Platform**: Engineered a full-stack event ticketing ecosystem (React.js, Node.js, MongoDB) featuring secure authentication, payment processing, and a companion React Native mobile app for real-time ticket validation via scanning.
-- **WhatsApp Bulk Messaging Platform**: Developed a real-time message dispatch system utilizing React and Socket.io, tightly integrated with a sophisticated license management system (CodeIgniter 4) to handle activation, validation, and expiry control.
 
 ---
 
