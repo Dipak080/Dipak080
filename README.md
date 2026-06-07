@@ -5,7 +5,7 @@
     <a href="https://github.com/Dipak080">
       <img src="https://komarev.com/ghpvc/?username=Dipak080&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Dipak080" />
     </a>
-    <a href="https://linkedin.com/in/dipakbarman-97a162143">
+    <a href="https://www.linkedin.com/in/dipak-barman-dev/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:dipakbarman080@gmail.com">
