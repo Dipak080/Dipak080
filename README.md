@@ -68,6 +68,5 @@ Here are some of the key systems I have architected and open-sourced:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipak080&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Dipak080's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipak080&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="Dipak080's GitHub streak" />
 </div>
