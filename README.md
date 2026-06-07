@@ -48,7 +48,7 @@ I am a **Senior Full Stack Developer** with **8+ years of proven experience** en
 #### **Essane Infotech** | *Software Developer* (April 2022 – June 2024)
 - Developed and maintained high-performance web applications and custom e-commerce platforms for various client projects.
 - Contributed to the frontend and backend development of **Qbag**, a React Native local food delivery application.
-- Assisted in building **ProMedilabs**, a comprehensive online laboratory management system utilizing PHP/Laravel and Flutter.
+- Assisted in building **ProMedilabs**, a comprehensive online laboratory management system utilizing PHP/Laravel and React Native.
 - Collaborated in Agile teams to deliver features on strict deadlines, ensuring clean code and high software quality.
 
 #### **CoDesk Softwares Private Limited** | *Full Stack & Mobile App Developer* (January 2016 – April 2022)
