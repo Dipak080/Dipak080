@@ -45,6 +45,12 @@ I am a **Senior Full Stack Developer** with **8+ years of proven experience** en
 - Architected and deployed a cross-platform **React Native scanner application** allowing event organizers to seamlessly scan and validate QR tickets in real-time, drastically reducing check-in friction.
 - Optimized backend routing and API performance, ensuring a highly responsive and consistent user interface across all platforms.
 
+#### **Essane Infotech** | *Software Developer* (April 2022 – June 2024)
+- Developed and maintained high-performance web applications and custom e-commerce platforms for various client projects.
+- Contributed to the frontend and backend development of **Qbag**, a React Native local food delivery application.
+- Assisted in building **ProMedilabs**, a comprehensive online laboratory management system utilizing PHP/Laravel and Flutter.
+- Collaborated in Agile teams to deliver features on strict deadlines, ensuring clean code and high software quality.
+
 #### **CoDesk Softwares Private Limited** | *Full Stack & Mobile App Developer* (January 2016 – April 2022)
 - Engineered scalable, highly available web and mobile applications for a diverse client base using React.js, React Native, Node.js, Express, MongoDB, and PHP (Laravel & CodeIgniter).
 - Acted as a core contributor for both frontend and backend development, architecting RESTful APIs and expertly managing complex relational (MySQL) and document (MongoDB) databases.
