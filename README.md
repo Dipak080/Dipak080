@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm Dipak Barman</h1>
-<h3 align="center">Senior Full Stack Developer | Web & Mobile Applications</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Dipak%20Barman&fontSize=70&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20Web%20&%20Mobile%20Applications&descAlignY=55&descAlign=62" />
 
-<p align="center">
-  <a href="https://github.com/Dipak080">
-    <img src="https://komarev.com/ghpvc/?username=Dipak080&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipak080" />
-  </a>
-  <a href="https://linkedin.com/in/dipakbarman-97a162143">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/Dipak080">
+      <img src="https://komarev.com/ghpvc/?username=Dipak080&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Dipak080" />
+    </a>
+    <a href="https://linkedin.com/in/dipakbarman-97a162143">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dipakbarman080@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
-I am a **Senior Full Stack Developer with 8+ years of experience** designing, building, and deploying scalable web and mobile applications. I specialize in JavaScript/TypeScript ecosystems and PHP frameworks, with a strong command of REST API design, authentication, database modeling, and performance optimization.
+### 👨‍💻 Professional Summary
 
-- 🔭 **Current Focus**: Architecting and shipping cross-platform mobile and web applications.
+I am a **Senior Full Stack Developer** with **8+ years of proven experience** in engineering scalable web and cross-platform mobile applications. My expertise spans the entire development lifecycle—from system architecture and API design to seamless deployment. I specialize in modern JavaScript/TypeScript ecosystems and PHP frameworks, consistently delivering secure, performant, and maintainable software solutions.
+
+- 🔭 **Current Focus**: Architecting enterprise-grade web applications and high-performance React Native mobile apps.
 - 🏢 **Current Role**: Full Stack & Mobile App Developer at **TIXME** (June 2024 - Present).
 - 🏢 **Previous Experience**: Full Stack & Mobile App Developer at **CoDesk Softwares Private Limited** (2016 - 2022).
-- 💼 **Open to Work**: Seeking a Senior Full Stack Developer, Technical Lead, or Engineering Manager role where I can drive technical direction and ship high-impact solutions.
-- 📫 **How to reach me**: **[dipakbarman080@gmail.com](mailto:dipakbarman080@gmail.com)**
+- 💼 **Open to Work**: Seeking Senior Full Stack Developer, Technical Lead, or Engineering Manager roles to drive technical excellence.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Arsenal
 
-**Languages & Core:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</p>
-
-**Frontend & Mobile:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</p>
-
-**Backend & Databases:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Redux, Context API, HTML5, CSS3 |
+| **Mobile** | React Native |
+| **Backend** | Node.js, Express.js, PHP (Laravel, CodeIgniter 4), Socket.io |
+| **Languages** | JavaScript, TypeScript, PHP |
+| **Databases** | MongoDB, MySQL |
+| **Architecture** | REST API Design, JWT/OAuth Authentication, Payment Integration, Real-Time Communication |
 
 ---
 
-### 🚀 Featured Projects
-- **TixMe – Event Ticketing Platform**: Full-stack web app (React.js, Node.js, MongoDB) with secure auth, event management, and payment integration. Paired with a React Native ticket-scanning mobile app for real-time validation.
-- **WhatsApp Bulk Messaging Platform**: Real-time messaging application built with React and Socket.io, paired with a license management system developed in CodeIgniter 4.
+### 🚀 Highlighted Open Source Projects
+
+Here are some of the key systems I have architected and developed:
+
+| 📂 Project | 📝 Description | 💻 Core Tech |
+| :--- | :--- | :--- |
+| **[ClinicManagementSystem](https://github.com/Dipak080/ClinicManagementSystem)** | A comprehensive digital clinic solution designed to manage patient records, appointments, and healthcare workflows efficiently. | `JavaScript`, `React`, `Node.js` |
+| **[DocumentManagmentSystem](https://github.com/Dipak080/DocumentManagmentSystem)** | A secure, scalable platform for organizing, storing, and retrieving enterprise documents with role-based access control. | `JavaScript`, `Node.js` |
+| **[TaskManagment](https://github.com/Dipak080/TaskManagment)** | A collaborative task tracking and productivity system built to streamline team workflows and project delivery. | `JavaScript`, `React` |
+
+<br>
+
+### 💼 Commercial & Enterprise Experience
+
+- **TixMe – Event Ticketing Platform**: Engineered a full-stack event ticketing ecosystem (React.js, Node.js, MongoDB) featuring secure authentication, payment processing, and a companion React Native mobile app for real-time ticket validation via scanning.
+- **WhatsApp Bulk Messaging Platform**: Developed a real-time message dispatch system utilizing React and Socket.io, tightly integrated with a sophisticated license management system (CodeIgniter 4) to handle activation, validation, and expiry control.
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipak080&show_icons=true&theme=radical" alt="Dipak080's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipak080&theme=radical" alt="Dipak080's GitHub streak" />
-</p>
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipak080&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Dipak080's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipak080&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="Dipak080's GitHub streak" />
+</div>
