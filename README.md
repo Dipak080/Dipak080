@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://my-portfolio-ten-rho-3emeozi4n6.vercel.app/" target="_blank">
-
       <img src="https://img.shields.io/badge/Portfolio-Website-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="https://github.com/Dipak080/my-portfolio/raw/main/Dipak_Barman_Resume.pdf">
