@@ -67,13 +67,24 @@ I am a **Senior Full Stack Developer** with **8+ years of proven experience** en
 
 ### 🚀 Highlighted Open Source Projects
 
-Here are some of the key systems I have architected and open-sourced:
+Here are some of the key systems I have architected and open-sourced, grouped by tech stack:
+
+#### 📱 React Native &middot; Redux
 
 | 📂 Project | 📝 Description | 💻 Core Tech |
 | :--- | :--- | :--- |
-| **[ClinicManagementSystem](https://github.com/Dipak080/ClinicManagementSystem)** | A comprehensive digital clinic solution designed to manage patient records, appointments, and healthcare workflows efficiently. | `JavaScript`, `React`, `Node.js` |
-| **[DocumentManagmentSystem](https://github.com/Dipak080/DocumentManagmentSystem)** | A secure, scalable platform for organizing, storing, and retrieving enterprise documents with role-based access control. | `JavaScript`, `Node.js` |
-| **[TaskManagment](https://github.com/Dipak080/TaskManagment)** | A collaborative task tracking and productivity system built to streamline team workflows and project delivery. | `JavaScript`, `React` |
+| **[CourseApp](https://github.com/Dipak080/CourseApp)** | A course video streaming app with a clean, modern UI for browsing and watching lessons on the go. | `React Native`, `Redux` |
+| **[SocialMedia](https://github.com/Dipak080/SocialMedia)** | A cross-platform social networking app featuring feeds, profiles, and real-time user interactions. | `React Native`, `Redux` |
+| **[E-commerceTemplate](https://github.com/Dipak080/E-commerceTemplate)** | A reusable e-commerce starter template with product listings, cart, and checkout flows. | `React Native`, `Redux` |
+| **[FoodDel](https://github.com/Dipak080/FoodDel)** | A food delivery application with restaurant browsing, ordering, and order tracking. | `React Native`, `Redux` |
+
+#### 🌐 React &middot; CodeIgniter 4 API
+
+| 📂 Project | 📝 Description | 💻 Core Tech |
+| :--- | :--- | :--- |
+| **[TaskManagment](https://github.com/Dipak080/TaskManagment)** | A collaborative task tracking and productivity system built to streamline team workflows and project delivery. | `React`, `CodeIgniter 4`, `MySQL` |
+| **[ClinicManagementSystem](https://github.com/Dipak080/ClinicManagementSystem)** | A comprehensive digital clinic solution designed to manage patient records, appointments, and healthcare workflows efficiently. | `React`, `CodeIgniter 4`, `MySQL` |
+| **[DocumentManagmentSystem](https://github.com/Dipak080/DocumentManagmentSystem)** | A secure, scalable platform for organizing, storing, and retrieving enterprise documents with role-based access control. | `React`, `CodeIgniter 4`, `MySQL` |
 
 ---
 
